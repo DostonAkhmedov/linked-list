@@ -1,4 +1,4 @@
-# LinkedList tak
+# LinkedList task
 
 ## Add Two Numbers
 
