@@ -12,7 +12,7 @@ func TestSum(t *testing.T) {
 		{
 			[]int{2, 4, 3},
 			[]int{5, 6, 4},
-			[]int{7, 0, 8},
+			[]int{7, 0, 7},
 		},
 		{
 			[]int{0},
