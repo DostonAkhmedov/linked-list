@@ -28,8 +28,8 @@ type LinkedList interface {
 
 func NewLinkedList() LinkedList {
 	return &linkedList{
-		nil,
-		0,
+		head: nil,
+		length: 0,
 	}
 }
 
